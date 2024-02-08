@@ -1,6 +1,6 @@
 # Hi there 👋
 -🌱 I’m currently learning Data Analysis
-- Pronouns: ... Let's not.. 😄
+
 
 
 <!--
@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 
-
+- Pronouns: ... Let's not.. 😄
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
