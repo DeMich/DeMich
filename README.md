@@ -1,5 +1,5 @@
 # Hi there 👋
--🌱 I’m currently learning Data Analysis
+🌱 I’m currently learning Data Analysis
 
 
 
